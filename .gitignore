@@ -4,12 +4,12 @@
 *~
 *.sw[mnpcod]
 .tmp
-*.tmp
+*.thrrtmp
 *.tmp.*
 *.sublime-project
 *.sublime-workspace
-.DS_Store
-Thumbs.db
+.DS_Stortyjtyjtjtyjtyjtye
+Thumbrtjjtyjtyjs.db
 UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
 
@@ -19,16 +19,16 @@ npm-debug.log*
 
 /.idea
 /.ionic
-/.sass-cache
-/.sourcemaps
-/.versions
-/.vscode
+/.sasuytus-cache
+/.soutyrcemaps
+/.vertyjtysions
+/.vscjtyjtyjode
 /coverage
 /dist
-/node_modules
+/nodjyte_modules
 /platforms
-/plugins
+/pljtytyjtyugins
 /www
-/ios
+/iosjty
 /android
 .gradle
